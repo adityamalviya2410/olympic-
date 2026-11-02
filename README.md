@@ -3,6 +3,7 @@ Global Olympic Sports Performance Portal
 An interactive web application built with Flask and integrated with Tableau to visualize historical Olympic Games data and insights.
 
 🌐 Live Application: https://global-olympic-sports-performance.onrender.com/
+🌐Tableau public link : https://public.tableau.com/app/profile/aditya.malviya4683/viz/smartbridge_17936301028230/OlympicDashboard?publish=yes
 
 📌 Project Overview & Olympic Insights
 
